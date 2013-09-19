@@ -1,6 +1,6 @@
 # to-dot-case
 
-  Convert a non-dot-case string to a dot-case string.
+  Convert a string to a dot case.
 
 ## Installation
 
