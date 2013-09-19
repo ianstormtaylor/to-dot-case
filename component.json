@@ -3,7 +3,7 @@
   "repo": "ianstormtaylor/to-dot-case",
   "license": "MIT",
   "version": "0.0.1",
-  "description": "Convert a non-dot-case string to a dot-case string.",
+  "description": "Convert a string to a dot case.",
   "keywords": ["dot", "case", "dotcase", "string"],
   "dependencies": {
     "ianstormtaylor/to-space-case": "0.1.1"
