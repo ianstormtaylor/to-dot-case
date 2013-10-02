@@ -5,6 +5,7 @@
 ## Installation
 
     $ component install ianstormtaylor/to-dot-case
+    $ npm install to-dot-case
 
 ## Example
 

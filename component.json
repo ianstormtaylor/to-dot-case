@@ -2,11 +2,11 @@
   "name": "to-dot-case",
   "repo": "ianstormtaylor/to-dot-case",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert a string to a dot case.",
   "keywords": ["dot", "case", "dotcase", "string"],
   "dependencies": {
-    "ianstormtaylor/to-space-case": "0.1.1"
+    "ianstormtaylor/to-space-case": "0.1.2"
   },
   "development": {
     "component/assert": "*"
