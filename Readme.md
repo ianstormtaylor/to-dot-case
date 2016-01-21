@@ -14,12 +14,12 @@ $ npm install to-dot-case
 ## Example
 
 ```js
-var dot = require('to-dot-case');
+var toDotCase = require('to-dot-case')
 
-dot('camelCase');  // "camel.case"
-dot('space case'); // "snake.case"
-dot('slug-case');  // "slug.case"
-dot('weird[case'); // "weird.case"
+toDotCase('camelCase')   // "camel.case"
+toDotCase('space case')  // "snake.case"
+toDotCase('slug-case')   // "slug.case"
+toDotCase('weird[case')  // "weird.case"
 ```
 
 
