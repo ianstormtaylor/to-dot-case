@@ -16,9 +16,12 @@ $ npm install to-dot-case
 ```js
 var toDotCase = require('to-dot-case')
 
+toDotCase("PascalCase")  // "pascal.case"
+toDotCase("snake_case")  // "snake.case"
 toDotCase('camelCase')   // "camel.case"
-toDotCase('space case')  // "snake.case"
+toDotCase('space case')  // "space.case"
 toDotCase('slug-case')   // "slug.case"
+toDotCase("PascalCase")  // "pascal.case"
 toDotCase('weird[case')  // "weird.case"
 ```
 
